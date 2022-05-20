@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! I’m Rahul. 👋
+
+✍ Programmer. Digital Artist. Forever a learner, trying to be a teacher. Aspiring to inspire. :)
+
+📄 My passion is constructing the vividness of my imagination in a computer. Besides that, I am your average space fan, Computer Science enthusiast, artist, and whatever else some free time brings to my life while ultimately trying to see where to go next and how much higher I can go from there!
 
 <!--
 **RahulHi/RahulHi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
